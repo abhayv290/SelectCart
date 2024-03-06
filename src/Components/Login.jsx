@@ -5,7 +5,7 @@ export default function Login() {
     return (
 
         <div className='container py-5' style={{ width: '30rem', }} >
-            <div className='bg-primary shadow-lg flex-column py-5 rounded-4  d-flex align-items-center justify-content-center'>
+            <div style={{ background: 'cadetblue' }} className='shadow-lg flex-column py-5 rounded-4  d-flex align-items-center justify-content-center'>
                 <h2 className='text-center  mx-5'>Login</h2>
                 <div className='my-3 d-flex flex-column'>
                     <input className='my-2  px-4 py-2 rounded border border-0' type="email" name='email' id='email' />

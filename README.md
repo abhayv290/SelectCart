@@ -3,7 +3,7 @@
 SelectCart-A Sleak And Simple ShoppingCart App 
 It Uses vite+react for frontend and Redux and reduxjs/tookit (RTK) for state management
 
-This Have consist of many functionality 
+Features  of this App as listed bellow  
 1.AddItem to the Cart
 ![alt text](<public/Screenshot 2024-03-07 015431.png>)
 2.View your Cart 
